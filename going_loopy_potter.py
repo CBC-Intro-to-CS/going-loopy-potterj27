@@ -1,22 +1,15 @@
-
+# for x in range(1,17,2):
+#     print(x)
      
-# age = int(input("Enter age: "))
-# if age % 2==1:
-#     current_value =1
-# while current_value <=age:
-#         print(current_value)
-#         current_value +=2 
 
-# sandwich_ingredients= ["mayo", "bread", "cheese", "pickle", "ham"] 
-# for x in range (1,6):
-#      print(f"{x}. {sandwich_ingredients[x - 1]}") 
+# weight = 180 
+# for year in range(1,16):
+#     weight = weight + 1 
+#     moon_weight= weight * 0.165 
+#     print(f"Year {year} is {moon_weight}") 
 
-
-# earth_weight = float(input("Enter your weight in kilos: "))
-# moon_gravity = 0.165
-# for x in range(1, 16):
-#     moon_weight = earth_weight * moon_gravity
-#     print(f"Year {x}: Your weight on the moon is {moon_weight:.2f} kg.") 
-#     earth_weight += 1
-
-
+# x = 1
+# results = ["cheese", "bread", "lettuce", "mayo", "ham"] 
+# for i in results: 
+#     print(f"{x} {i}")
+#     x= x + 1
